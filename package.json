@@ -1,0 +1,18 @@
+{
+  "name": "memasiki-local",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "import-game": "node scripts/import-game.mjs",
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build --base=./",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
