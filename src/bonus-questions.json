@@ -1,0 +1,57 @@
+[
+  {
+    "number": 51,
+    "image": "89.png",
+    "prompt": ["Что предлагается найти девушке на картинке?", "What is the girl in the picture asked to find?"],
+    "answers": [
+      { "correct": false, "text": ["ЗАПАСНУЮ БРОВЬ", "A SPARE EYEBROW"] },
+      { "correct": false, "text": ["ЗАРЯДКУ ОТ БЫВШЕГО", "HER EX'S CHARGER"] },
+      { "correct": true, "text": ["ПОМАДКУ", "LIPSTICK"] },
+      { "correct": false, "text": ["СМЫСЛ ЖИЗНИ", "THE MEANING OF LIFE"] }
+    ]
+  },
+  {
+    "number": 52,
+    "image": "90.png",
+    "prompt": ["Как называет пиво герой этого мема?", "What does the guy in this meme call beer?"],
+    "answers": [
+      { "correct": true, "text": ["ЖИДКОЕ ЗОЛОТО", "LIQUID GOLD"] },
+      { "correct": false, "text": ["БОРЩ С ПУЗЫРЬКАМИ", "FIZZY BORSCHT"] },
+      { "correct": false, "text": ["ПЕННАЯ ПЕНСИЯ", "A FOAMY PENSION"] },
+      { "correct": false, "text": ["ХЛЕБНЫЙ ЭЛИКСИР", "BREAD ELIXIR"] }
+    ]
+  },
+  {
+    "number": 53,
+    "image": "91.jpg",
+    "prompt": ["Какой магазин находится в этом доме культуры?", "Which store is inside this cultural center?"],
+    "answers": [
+      { "correct": false, "text": ["ЛАРЁК «ШАУРМА И БАЛЕТ»", "SHAWARMA & BALLET KIOSK"] },
+      { "correct": false, "text": ["СЕКОНД-ХЕНД «АНТРАКТ»", "INTERMISSION THRIFT SHOP"] },
+      { "correct": false, "text": ["ФИКС ПРАЙС ИМЕНИ ЛЕНИНА", "THE LENIN DOLLAR STORE"] },
+      { "correct": true, "text": ["МАГНИТ", "MAGNIT"] }
+    ]
+  },
+  {
+    "number": 54,
+    "image": "92.jpg",
+    "prompt": ["Что мат делает с твоим интеллектом?", "What does swearing do to your intelligence?"],
+    "answers": [
+      { "correct": false, "text": ["СДАЁТ В ЛОМБАРД", "PAWNS IT OFF"] },
+      { "correct": true, "text": ["УБИВАЕТ", "KILLS IT"] },
+      { "correct": false, "text": ["УЧИТ ЕГО РУГАТЬСЯ В ОТВЕТ", "TEACHES IT TO SWEAR BACK"] },
+      { "correct": false, "text": ["ПЕРЕВОДИТ В АВИАРЕЖИМ", "PUTS IT IN AIRPLANE MODE"] }
+    ]
+  },
+  {
+    "number": 55,
+    "image": "93.png",
+    "prompt": ["Как зовут этого комарика?", "What is this little mosquito's name?"],
+    "answers": [
+      { "correct": false, "text": ["ГОВНОВОЗ", "SHIT HAULER"] },
+      { "correct": false, "text": ["ДОЛБОСОС", "DUMBSUCKER"] },
+      { "correct": true, "text": ["ХУЕСОС", "COCKSUCKER"] },
+      { "correct": false, "text": ["ГНИДА", "LOUSE"] }
+    ]
+  }
+]
